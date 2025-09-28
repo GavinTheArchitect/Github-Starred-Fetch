@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-  <img src="./GitHub-Starred-Logo.jpeg" alt="Github Starred Logo" width="500"/>
+  <img src="./GitHub-Starred-Logo.jpeg" alt="Github Starred Logo"/>
 </div>
 
 ---
